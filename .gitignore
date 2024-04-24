@@ -30,3 +30,12 @@
 *.exe
 *.out
 *.app
+
+# build folder
+build
+compile_commands.json
+.cache
+
+!bin/test.conf
+bin
+lib
